@@ -1,46 +1,47 @@
-# Getting Started with Create React App
+# Lista de Tarefas :pencil2:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem-vindo à Lista de Tarefas, o projeto perfeito para você que adora organizar sua vida, mas também não resiste a um pouco de diversão. Usamos tecnologias modernas para criar uma aplicação bonita, eficiente e responsiva. Então, prepare-se para a gestão de tarefas do futuro! :rocket:
 
-## Available Scripts
+## Tecnologias Utilizadas :hammer_and_wrench:
+- React
+- Redux
+- TypeScript
+- Styled-components
+- MaterialUI
 
-In the project directory, you can run:
+## Funcionalidades :star:
+### Prioridades
+- **Urgente:** É melhor você fazer isso AGORA!
+- **Importante:** Não é para ontem, mas é bom não enrolar.
+- **Normal:** Quando tiver um tempo, dá uma olhada.
 
-### `npm start`
+### Status
+- **Pendente:** Quase lá, força!
+- **Concluída:** Uhul! Mais uma para a lista de conquistas.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Recursos :gear:
+### Filtragem
+Com a filtragem, você pode facilmente encontrar a tarefa que está procurando. Quer ver apenas as tarefas urgentes? Ou talvez apenas as tarefas concluídas? Sem problemas!
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Ações com Redux
+Aqui está a magia! As seguintes funções são manipuladas através do Redux:
+- **Remover Tarefas:** Já fez? Apague!
+- **Editar Tarefas:** Errou na descrição? Sem estresse.
+- **Cadastrar Tarefas:** Coloque todas essas ideias em um só lugar.
+- **Alterar Status da Tarefa:** Pendente para Concluída? Sentindo-se como um vencedor.
 
-### `npm test`
+### Responsividade
+O site é inteiramente responsivo e vem com uma gaveta (drawer) elegante para mostrar os filtros. Então, quer esteja no desktop, tablet ou celular, sua lista estará sempre com você.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Como começar? :runner:
+1. Clone este repositório
+2. Instale as dependências com \`npm install\`
+3. Rode o projeto com \`npm start\`
+4. Organize sua vida, e divirta-se fazendo isso!
 
-### `npm run build`
+## Contribua! :handshake:
+Encontrou um erro? Tem uma ideia legal? Sinta-se à vontade para abrir uma Issue ou um Pull Request. Vamos fazer deste projeto algo ainda mais incrível juntos!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feito com :heart: e um pouco de café. Aproveite sua organização repleta de estilo!
