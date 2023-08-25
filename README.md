@@ -2,6 +2,9 @@
 
 Bem-vindo à Lista de Tarefas, o projeto perfeito para você que adora organizar sua vida, mas também não resiste a um pouco de diversão. Usamos tecnologias modernas para criar uma aplicação bonita, eficiente e responsiva. Então, prepare-se para a gestão de tarefas do futuro! :rocket:
 
+# DEMO
+- [Acesse a Lista de Tarefas](https://lista-de-tarefas-ts-one.vercel.app/)
+
 ## Tecnologias Utilizadas :hammer_and_wrench:
 - React
 - Redux
